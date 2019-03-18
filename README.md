@@ -1,2 +1,2 @@
-# thispersondoesnotexist-parser
-thispersondoesnotexist.com images parser
+# thispersondoesnotexist.com-parser
+Simple images parser for thispersondoesnotexist.com
